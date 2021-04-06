@@ -1,0 +1,197 @@
+.logout1
+{
+  position: absolute;
+ margin-top: -50px;
+  margin-left: 1270px;
+
+}
+
+.logout1 .lehar{
+  text-align: center;
+  letter-spacing: 2px;
+  background-color: rgb(0, 0, 0);
+  color: bisque;
+  font-size: 15px;
+  font-style: oblique;
+  border:none;
+  height: 43px;
+  width: auto;
+  font-style: italic;
+  border-radius: 100%;
+  
+
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+}
+.header{
+    height: 80px;
+    background-color: black;
+    background: #feccb1; /* Old browsers */
+background: -moz-radial-gradient(center, ellipse cover,  #feccb1 0%, #f17432 41%, #ea5507 65%, #fb955e 99%); /* FF3.6-15 */
+background: -webkit-radial-gradient(center, ellipse cover,  #feccb1 0%,#f17432 41%,#ea5507 65%,#fb955e 99%); /* Chrome10-25,Safari5.1-6 */
+background: radial-gradient(ellipse at center,  #feccb1 0%,#f17432 41%,#ea5507 65%,#fb955e 99%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#feccb1', endColorstr='#fb955e',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
+
+
+    margin-top: -30px;
+    margin-left: -20px;
+    margin-right: -20px;
+}
+.header-logo{
+    font-size: 30px;
+    margin-left: 40px;
+    word-spacing: 10px;
+    font-weight: 400;
+    color: bisque;
+    margin-top: 30px;
+    position: absolute;
+}
+.wishlist{
+    position: absolute;
+    margin-top: 30px;
+    margin-left: 800px;
+
+}
+.wishlist button{
+    background-color: rgb(88, 24, 97);
+    color: bisque;
+    font-size: 20px;
+    font-style: oblique;
+    border:none;
+    float: left;
+    font-style: italic;
+    border-radius: 10px;
+    padding: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    letter-spacing: 2px;
+}
+.showwishlist{
+    position: absolute;
+    margin-top: 32px;
+    margin-left: 900px;
+
+}
+.showwishlist .button{
+    letter-spacing: 2px;
+    background-color: rgb(88, 24, 97);
+    color: bisque;
+    font-size: 20px;
+    font-style: oblique;
+    border:none;
+    height: 43px;
+    width: auto;
+    font-style: italic;
+    border-radius: 10px;
+    
+  
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+.showwishlist input[type="submit"]{
+    text-align: center;
+   
+}
+
+
+
+
+.container{
+    background-color: black;
+    color: antiquewhite;
+    font-size: 20px;
+    height: 200px;
+    width: 200px;
+    padding: 30px;
+    margin-top: 10px;
+    display: inline-block;
+    border-radius: 20px;
+}
+.wishlistcontainer{
+    height: 100px;
+    width: 500px;
+    background-color: rgb(0, 0, 0);
+    color: antiquewhite;
+    position: absolute;
+    margin-left: 950px;
+    margin-top: -260px;
+    padding: 10px;
+    display: none;
+    
+    
+}
+.wishlistcontainer input[type="text"]{
+    height: 30px;
+    width: 300px;
+    background-color: aliceblue;
+    color: #000;
+    position: absolute;
+    margin-top: 20px;
+    margin-left: 120px;
+}
+
+.wishlistcontainer input[type="submit"]{
+        height: 30px;
+        width: 150px;
+        background: #bc40b8; /* Old browsers */
+        background: -moz-radial-gradient(center, ellipse cover,  #bc40b8 0%, #8f478a 47%, #70406b 100%); /* FF3.6-15 */
+        background: -webkit-radial-gradient(center, ellipse cover,  #bc40b8 0%,#8f478a 47%,#70406b 100%); /* Chrome10-25,Safari5.1-6 */
+        background: radial-gradient(ellipse at center,  #bc40b8 0%,#8f478a 47%,#70406b 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+        filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#bc40b8', endColorstr='#70406b',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
+        color: #000;
+        margin-left: 80px;
+        margin-top: 40px;
+        position: absolute;
+        font-weight: 1000;
+        font-size: large;
+        font-family: 'Times New Roman', Times, serif;
+}
+.cancel{
+    height: 30px;
+    width: 150px;
+    background: #bc40b8; /* Old browsers */
+    background: -moz-radial-gradient(center, ellipse cover,  #bc40b8 0%, #8f478a 47%, #70406b 100%); /* FF3.6-15 */
+    background: -webkit-radial-gradient(center, ellipse cover,  #bc40b8 0%,#8f478a 47%,#70406b 100%); /* Chrome10-25,Safari5.1-6 */
+    background: radial-gradient(ellipse at center,  #bc40b8 0%,#8f478a 47%,#70406b 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#bc40b8', endColorstr='#70406b',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
+    color: #000;
+    margin-left: 300px;
+    margin-top: 40px;
+    position: absolute;
+    font-weight: 1000;
+    font-size: large;
+    font-family: 'Times New Roman', Times, serif;
+    border: none;
+}
+h6{
+    
+    font-size: medium;
+    margin-top: 5px;
+    position: absolute;
+   
+
+}
+
+
+body{
+    /* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#bc40b8+0,8f478a+47,70406b+100 */
+background: #bc40b8; /* Old browsers */
+background: -moz-radial-gradient(center, ellipse cover,  #bc40b8 0%, #8f478a 47%, #70406b 100%); /* FF3.6-15 */
+background: -webkit-radial-gradient(center, ellipse cover,  #bc40b8 0%,#8f478a 47%,#70406b 100%); /* Chrome10-25,Safari5.1-6 */
+background: radial-gradient(ellipse at center,  #bc40b8 0%,#8f478a 47%,#70406b 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#bc40b8', endColorstr='#70406b',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
+
+}
+input{
+    background-color: black;
+    color: antiquewhite;
+    outline: none;
+    border: none;
+}
+input[type="submit"]{
+    background-color: beige;
+    color: #000;;
+    margin-left: 120px;
+    font-size: 15px;
+    height: 30px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
